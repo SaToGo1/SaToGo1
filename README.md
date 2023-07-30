@@ -1,4 +1,4 @@
-# Santiago Toledano Gómez
+<h1 align="center">Hi 👋, I'm Santiago Toledano Gómez</h1>  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/santiagotoledano)](https://linkedin.com/in/santiagotoledano)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SaToGo1)](https://github.com/SaToGo1)
