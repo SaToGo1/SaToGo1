@@ -38,6 +38,7 @@ I try to keep the habit of coding daily without exception, lately doing it at [M
 - An application that allows users to register exercises and saves the information in a MongoDB database using JavaScript, Node.js, Express, MongoDB, Mongoose, HTML, CSS.
 - [GitHub Repo](https://github.com/SaToGo1/project-exercisetracker)
 - [Live Demo](https://project-exercisetracker.satogo.repl.co/)
+<img src="https://github.com/SaToGo1/project-exercisetracker/assets/85353835/a7a8cfe7-dd1d-4f94-868d-624677ef2ae6" width="500px">
 
 ## Contact
 Email: stoledano97@gmail.com  
