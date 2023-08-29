@@ -23,7 +23,7 @@ I try to keep the habit of coding daily without exception, lately doing it at [M
 #### FrontEnd - React
 - A simple Online Shop with a Cart built using React, JavaScript, HTML, CSS, and Webpack.							           	            		      
 - [GitHub Repo](https://github.com/SaToGo1/shopping-cart)
-- [Live Demo](https://satogo1.github.io/Todo-list)
+- [Live Demo](https://satogo1.github.io/shopping-cart/)
 <img src="https://github.com/SaToGo1/shopping-cart/assets/85353835/ad492f89-6be4-4243-9c86-fad7a67cc3b6" width="500px">
 
 ### 2. To-Do List
