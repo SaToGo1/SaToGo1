@@ -49,4 +49,4 @@ Email: stoledano97@gmail.com
 LinkedIn: [linkedin.com/in/santiagotoledano](https://linkedin.com/in/santiagotoledano)  
 GitHub: [github.com/SaToGo1](https://github.com/SaToGo1)  
 
-Feel free to connect with me on LinkedIn or explore my GitHub repositories to see more of my projects!
+Feel free to contact me or explore my GitHub repositories to see more of my projects!
