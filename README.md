@@ -7,13 +7,17 @@
 ## About Me
 Hello! I'm Santiago, a FullStack Developer passionate about creating web applications. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona and continuously learning through self-taught content, actually Doing [The Odin Project](https://www.theodinproject.com/) Course. My goal is to contribute with my skills to meaningful projects and collaborate with dynamic development teams.
 
-I try to keep the habit of coding daily without exception, lately doing it at [My Code Signal Profile](https://app.codesignal.com/profile/santiago_x7i).
+I try to keep the habit of coding daily, lately doing it at [My Code Signal Profile](https://app.codesignal.com/profile/santiago_x7i).
 
 ## Skills
 - **Web Development**
   - JavaScript (ES6+)
   - HTML & CSS
-  - MERN Stack (MongoDB, Express, React, Node.js)
+  - MERN Stack
+    -  MongoDB
+    -  Express
+    -  React
+    -  Node.js
   - SQL
   - Git & GitHub
   - Unit Testing (Jest)
@@ -27,7 +31,7 @@ I try to keep the habit of coding daily without exception, lately doing it at [M
 <img src="https://github.com/SaToGo1/shopping-cart/assets/85353835/ad492f89-6be4-4243-9c86-fad7a67cc3b6" width="500px">
 
 ### 2. To-Do List
-#### FrontEnd - VanillaJs + BackEnd - Firebase 	
+#### FrontEnd - JavaScript + BackEnd -> Firebase 	
 - An application to save tasks using JavaScript, HTML, CSS, Webpack, and Firebase.
 - [GitHub Repo](https://github.com/SaToGo1/Todo-list)
 - [Live Demo](https://satogo1.github.io/Todo-list)
