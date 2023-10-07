@@ -7,8 +7,6 @@
 ## About Me
 Hello! I'm Santiago, a FullStack Developer passionate about creating web applications. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona and continuously learning through self-taught content, actually Doing [The Odin Project](https://www.theodinproject.com/) Course. My goal is to contribute with my skills to meaningful projects and collaborate with dynamic development teams.
 
-I try to keep the habit of coding daily, lately doing it at [My Code Signal Profile](https://app.codesignal.com/profile/santiago_x7i).
-
 ## Skills
 - **Web Development**
   - JavaScript (ES6+)
