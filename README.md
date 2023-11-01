@@ -5,7 +5,7 @@
 [![CodeSignal](https://img.shields.io/badge/-CodeSignal-black?style=flat-square&logo=codesignal&logoColor=white&link=https://app.codesignal.com/profile/santiago_x7i)](https://app.codesignal.com/profile/santiago_x7i)
 
 ## About Me
-Hello! I'm Santiago, a FullStack Developer passionate about creating web applications. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona and continuously learning through self-taught content, actually Doing [The Odin Project](https://www.theodinproject.com/) Course. My goal is to contribute with my skills to meaningful projects and collaborate with dynamic development teams.
+Hello! I'm Santiago, a FullStack Developer passionate about creating web applications. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona and i developed a continuous learning mindset, actually Doing [The Odin Project](https://www.theodinproject.com/) Course. My goal is to contribute with my skills to meaningful projects and collaborate with dynamic development teams.
 
 ## Skills
 - **Web Development**
@@ -28,12 +28,12 @@ Hello! I'm Santiago, a FullStack Developer passionate about creating web applica
 - [Live Demo](https://satogo1.github.io/shopping-cart/)
 <img src="https://github.com/SaToGo1/shopping-cart/assets/85353835/ad492f89-6be4-4243-9c86-fad7a67cc3b6" width="500px">
 
-### 2. To-Do List
-#### FrontEnd - JavaScript + BackEnd -> Firebase 	
-- An application to save tasks using JavaScript, HTML, CSS, Webpack, and Firebase.
-- [GitHub Repo](https://github.com/SaToGo1/Todo-list)
-- [Live Demo](https://satogo1.github.io/Todo-list)
-<img src="https://github.com/SaToGo1/Todo-list/assets/85353835/60c2fab9-8f62-4ba4-97bc-9525d2dd4e2a" width="500px">
+### 2. TO-DO List version 2 
+FrontEnd - JavaScript
+- An application to save tasks using JavaScript, HTML, CSS and Vite.
+- [GitHub Repo](https://github.com/SaToGo1/todo-list-version2)
+- [Live Demo](https://satogo1.github.io/todo-list-version2/)
+<img src="https://github.com/SaToGo1/todo-list-version2/assets/85353835/0ac9d517-06db-40c7-9a75-98f16416b76c)" width="500px">
 
 ### 3. Exercise Tracker
 #### BackEnd - Node, Express, mongoDB
