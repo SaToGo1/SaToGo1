@@ -5,7 +5,9 @@
 [![CodeSignal](https://img.shields.io/badge/-CodeSignal-black?style=flat-square&logo=codesignal&logoColor=white&link=https://app.codesignal.com/profile/santiago_x7i)](https://app.codesignal.com/profile/santiago_x7i)
 
 ## About Me
-Hello! I'm Santiago, a FullStack Developer passionate about creating web applications. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona and i developed a continuous learning mindset, actually Doing [The Odin Project](https://www.theodinproject.com/) Course. My goal is to contribute with my skills to meaningful projects and collaborate with dynamic development teams.
+Hello! I'm Santiago, Hello! I'm Santiago, a Web Developer interested in Fullstack web applications and software development. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona.
+I love to face new challenges and learn from them. I'm always seeking for new opportunities to improve myself and my skills.
+My goal is to contribute with my skills to meaningful projects, develop new skills, and grow professionally.
 
 ## Skills
 - **Web Development**
@@ -43,8 +45,8 @@ FrontEnd - JavaScript
 <img src="https://github.com/SaToGo1/project-exercisetracker/assets/85353835/a7a8cfe7-dd1d-4f94-868d-624677ef2ae6" width="500px">
 
 ## Contact
-Email: stoledano97@gmail.com  
+Mail: stoledano97@gmail.com  
 LinkedIn: [linkedin.com/in/santiagotoledano](https://linkedin.com/in/santiagotoledano)  
 GitHub: [github.com/SaToGo1](https://github.com/SaToGo1)  
 
-Feel free to contact me or explore my GitHub repositories to see more of my projects!
+Feel free to contact me through mail or linked in or explore my GitHub repositories to see more of my projects!
