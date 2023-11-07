@@ -7,6 +7,7 @@
 ## About Me
 Hello! I'm Santiago, Hello! I'm Santiago, a Web Developer interested in Fullstack web applications and software development. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona.
 I love to face new challenges and learn from them. I'm always seeking for new opportunities to improve myself and my skills.
+
 My goal is to contribute with my skills to meaningful projects, develop new skills, and grow professionally.
 
 ## Skills
