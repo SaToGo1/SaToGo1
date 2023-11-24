@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Santiago Toledano Gómez</h1>  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&link=https://satogo.dev)](https://satogo.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightcoral?style=flat-square&logo=web&link=https://satogo.dev)](https://satogo.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/satogo)](https://linkedin.com/in/satogo)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SaToGo1)](https://github.com/SaToGo1)
-[![CodeSignal](https://img.shields.io/badge/-CodeSignal-black?style=flat-square&logo=codesignal&logoColor=white&link=https://app.codesignal.com/profile/santiago_x7i)](https://app.codesignal.com/profile/santiago_x7i)
+[![CodeSignal](https://img.shields.io/badge/-CodeSignal-lightblue?style=flat-square&logo=codesignal&logoColor=white&link=https://app.codesignal.com/profile/santiago_x7i)](https://app.codesignal.com/profile/santiago_x7i)
 
 ## About Me
 Hello! I'm Santiago, a Web Developer interested in Fullstack web applications and software development. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona.
 I love to face new challenges and learn from them. I'm always seeking for new opportunities to improve myself and my skills.
 
 My goal is to contribute with my skills to meaningful projects, develop new skills, and grow professionally.
+Portfolio: [satogo.dev](satogo.dev)
 
 ## Skills
 - **Web Development**
