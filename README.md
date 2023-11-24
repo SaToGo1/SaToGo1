@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Toledano Gómez</h1>  
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&link=https://satogo.dev)](https://satogo.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/satogo)](https://linkedin.com/in/satogo)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SaToGo1)](https://github.com/SaToGo1)
 [![CodeSignal](https://img.shields.io/badge/-CodeSignal-black?style=flat-square&logo=codesignal&logoColor=white&link=https://app.codesignal.com/profile/santiago_x7i)](https://app.codesignal.com/profile/santiago_x7i)
@@ -49,5 +50,6 @@ FrontEnd - JavaScript
 Mail: stoledano97@gmail.com  
 LinkedIn: [linkedin.com/in/satogo](https://linkedin.com/in/satogo)  
 GitHub: [github.com/SaToGo1](https://github.com/SaToGo1)  
+Portfolio: [satogo.dev](satogo.dev)
 
 Feel free to contact me through mail or linked in or explore my GitHub repositories to see more of my projects!
