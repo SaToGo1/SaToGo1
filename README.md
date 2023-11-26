@@ -10,6 +10,7 @@ Hello! I'm Santiago, a Web Developer interested in Fullstack web applications an
 I love to face new challenges and learn from them. I'm always seeking for new opportunities to improve myself and my skills.
 
 My goal is to contribute with my skills to meaningful projects, develop new skills, and grow professionally.
+
 Portfolio: [satogo.dev](satogo.dev)
 
 ## Skills
