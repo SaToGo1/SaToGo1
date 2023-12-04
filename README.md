@@ -6,12 +6,9 @@
 [![CodeSignal](https://img.shields.io/badge/-CodeSignal-lightblue?style=flat-square&logo=codesignal&logoColor=white&link=https://app.codesignal.com/profile/santiago_x7i)](https://app.codesignal.com/profile/santiago_x7i)
 
 ## About Me
-Hello! I'm Santiago, a Web Developer interested in Fullstack web applications and software development. I'm currently pursuing a Computer Science degree at the Autonomous University of Barcelona.
-I love to face new challenges and learn from them. I'm always seeking for new opportunities to improve myself and my skills.
-
-My goal is to contribute with my skills to meaningful projects, develop new skills, and grow professionally.
-
-Portfolio: [satogo.dev](satogo.dev)
+I am Santiago, Web Developer currently pursuing a Computer Science degree.
+Passionate for facing new challenges and learning from them. Constantly seeking opportunities for improvement. 
+I love to build clean, simple and understandable code.
 
 ## Skills
 - **Web Development**
