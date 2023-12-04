@@ -21,7 +21,7 @@ I love to build clean, simple and understandable code.
     -  Node.js
   - SQL
   - Git & GitHub
-  - Unit Testing (Jest)
+  - Unit Testing (Mocha, Jest, chai, React testing library)
 
 ## Projects
 ### 1. Online Shop
