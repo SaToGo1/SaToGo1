@@ -15,11 +15,11 @@ I love to build simple and understandable code.
 | JavaScript (ES6+)  | HTML & CSS | React |
 | ------------------ | ---------- | ----- |
 ##### BackEnd
-|  NodeJs  | Express | MongoDB | SQL ( MySQL ) | Firebase |
-| -------- | ------- | ------- |-------------- | -------- |
+|  NodeJs  | Express | MongoDB | SQL ( MySQL ) | Python(fastAPI) |
+| -------- | ------- | ------- |-------------- | --------------- |
 ##### Testing
-|  Jest  | Chai | Mocha | DOM / React Testing library |
-| ------ | ---- | ----- | --------------------------- |
+|  Jest  | DOM / React Testing library |
+| ------ | --------------------------- |
 ##### Other
 |  C++  | Python |
 | ----- | ------ |
